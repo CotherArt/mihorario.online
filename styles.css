@@ -15,11 +15,17 @@
     margin-bottom: 10pt;
     margin-top: 10pt;
 }
+#corpus {
+    text-align: center;
+}
 #horario {
-    max-width: 100%;
-    max-height: 100%;
+    text-align: center;
+    align-content: center;
+    width: 950px; 
+    height: 500px;
 }
 body {
     background-color: hsl(25, 35%, 7%);
+    height: 100vh;
 }
 /* h1 {font-size: 700;} */
