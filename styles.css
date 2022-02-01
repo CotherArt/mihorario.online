@@ -21,11 +21,17 @@
 #corpus {
     text-align: center;
 }
-#horario {
+#horario-ti-22 {
     text-align: center;
     align-content: center;
     width: 940px; 
     height: 470px;
+}
+#horario-ti-21 {
+    text-align: center;
+    align-content: center;
+    width: 1020px; 
+    height: 530px;
 }
 html, body {
     background-color: hsl(25, 35%, 7%);
