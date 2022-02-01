@@ -27,16 +27,16 @@
     width: 940px; 
     height: 470px;
 }
-body {
+html, body {
     background-color: hsl(25, 35%, 7%);
-    height: 100vh;
+    height: 100%;
 }
 footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    /* height: 50px; */
+    text-align: center;
+    align-content: center;
     width: 100%;
-    overflow: hidden;
+    position:fixed;
+    bottom:0;
+    left:0;
 }
 /* h1 {font-size: 700;} */
