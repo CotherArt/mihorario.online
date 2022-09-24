@@ -21,12 +21,19 @@
 #corpus {
     text-align: center;
 }
+#horario-ti-41 {
+    text-align: center;
+    align-content: center;
+    width: 940px; 
+    height: 410px;
+}
 #horario-ti-22 {
     text-align: center;
     align-content: center;
     width: 940px; 
     height: 470px;
 }
+
 #horario-ti-21 {
     text-align: center;
     align-content: center;
