@@ -29,8 +29,7 @@ table{
     width: 100%;
     max-width: 1130px;
 }
-td, tr{
-    border: 1px solid;
+td, tr{ 
     padding: 0px;
     border-spacing: 0px;
 }
