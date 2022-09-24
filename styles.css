@@ -20,13 +20,21 @@
 }
 #corpus {
     text-align: center;
+    height: 100%;
+}
+td, tr{
+    padding: 0px;
+    border-spacing: 0px;
+}
+#horas{
+    width: 168px;
+    height: 500px;
 }
 #horario-ti-41 {
-    text-align: center;
-    align-content: center;
-    width: 940px; 
-    height: 410px;
+    width: 100%;
+    height: 500px;
 }
+
 #horario-ti-22 {
     text-align: center;
     align-content: center;
@@ -41,7 +49,7 @@
     height: 530px;
 }
 html, body {
-    background-color: hsl(25, 35%, 7%);
+    background-color: #18110c;
     height: 100%;
 }
 footer {
